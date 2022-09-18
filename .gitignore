@@ -1,5 +1,7 @@
 ### C ###
-sketch/
+draft/
+debug/
+*test.c
 
 # Object files
 *.ko
